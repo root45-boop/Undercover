@@ -1,2 +1,2 @@
 # Undercover
-this is just a tor based browser so its nothing crazy
+this is just a chromium based browser with tor so nothing crazy
